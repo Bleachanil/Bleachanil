@@ -11,5 +11,6 @@
 
 ### 🛠️ Tech Stack & Powers
 `Laravel` | `Vue.js` | `Docker` 
+`Cero` | `Resurrección` | `Segunda Etapa`
 
 *State: Controlled Nihilism.* 🟢
